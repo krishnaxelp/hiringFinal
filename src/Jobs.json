@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "type": "Developer",
+        "status": "Active",
+        "recruiter": "Krishna"        
+    },
+    {
+        "id": 2,
+        "type": "Designer",
+        "status": "InActive",
+        "recruiter": "Nishchal"
+    },
+    {
+        "id": 3,
+        "type": "Testing",
+        "status": "Active",
+        "recruiter": "Noone"
+    }
+]
